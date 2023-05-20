@@ -1,0 +1,32 @@
+app_name/
+├── controllers/
+│   ├── __init__.py
+│   └── ...
+├── data/
+│   └── ...
+├── demo/
+│   └── ...
+├── models/
+│   ├── __init__.py
+│   └── ...
+├── reports/
+│   └── ...
+├── security/
+│   └── ...
+├── static/
+│   ├── description
+│   |   └── ...
+│   └── src
+│       ├── css
+│       ├── img
+│       ├── js
+│       ├── less
+│       ├── lib
+│       ├── scss
+│       └── xml
+├── views/
+│   └── ...
+├── wizards/
+│   └── ...
+├── __init__.py
+└── __manifest__.py
